@@ -22,6 +22,9 @@ This project is a simple infinite scroll website built using HTML, CSS, JavaScri
 - Unsplash API
 - Usage
 
+## Preview
+![sample](https://github.com/abhi-up/infinity-scroll/assets/77201101/56ad3d9d-3093-48e6-bdea-b36fda1b0b7f)
+
 ## To use this project, follow these steps:
 
 1. Clone this repository to your local machine.
