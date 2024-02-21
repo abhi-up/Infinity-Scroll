@@ -1,4 +1,4 @@
-# Infinite Scroll Website with Unsplash API
+# Infinite Scroll Website with Unsplash API ✨
 
 ## Overview
 
